@@ -1,0 +1,83 @@
+body {
+    background-color: #EEEEEE;
+}
+
+.content {
+    margin-top: 5em;
+    text-align: center;
+}
+
+.content h1 {
+    font-family: Comic Sans, Comic Sans MS, cursive;
+    margin-bottom: 1em;
+    margin-left: 30%;
+    margin-right: 30%;
+    min-width: 400px;
+}
+
+.content form {
+    background-color: #9E9E9E;
+    margin-left: 30%;
+    margin-right: 30%;
+    min-width: 400px;
+    padding-top: 1em;
+    height: 3em;
+    border-radius: 10px;
+}
+
+.content input {
+    text-align: center;
+    padding-left: 0.5em;
+    border-radius: 5px;
+    border: none;
+    height: 2em;
+}
+
+.content #boutton {
+    width: 10%;
+    min-width: 50px;
+    height: 2.4em;
+    border: none;
+    border-radius: 5px;
+    background-color: #66DDAA;
+}
+
+.answer #boutton {
+    height: 2.4em;
+    border: none;
+    border-radius: 5px;
+    background-color: #66DDAA;
+}
+
+a {
+ text-decoration: none;
+ color: black;
+}
+
+.result {
+    padding: 0.5em;
+    background-color: white;
+    border-radius: 5px;
+    margin-left: 30%;
+    margin-right: 30%;
+    min-width: 420px;
+    text-align: justify;
+}
+
+#retour {
+    margin-top: 1em;
+    margin-right: 1.5em;
+    display: block;
+    min-width: 420px;
+}
+
+
+#CanvasElem {
+    margin-top: 2em;
+    margin-left: 30%;
+    margin-right: 30%;
+    min-width: 420px;
+}
+#canvas {
+    background-color: white;
+}
